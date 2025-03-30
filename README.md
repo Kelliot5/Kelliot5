@@ -18,8 +18,8 @@ I'm a passionate developer with a strong focus on building secure, scalable, and
 - **Blockchain**: Ethereum, Hardhat, Truffle 
 
 ## 🌟 Highlights
-- **[Fantomon]**: [NFT Collection on Fantom Maintnet
-- **[Runescribe]**: [Diablo 2 Style IDLE NFT PVP Terminal Game
+- **[Fantomon]**: [NFT Collection on Fantom Maintnet]
+- **[Runescribe]**: [Diablo 2 Style IDLE NFT PVP Terminal Game]
 
 ## 🔒 Security Focus
 I’m deeply interested in web application security—ensuring applications are robust against threats like XSS, CSRF, and SQL injection. I follow secure coding principles and enjoy digging into the latest security research.
