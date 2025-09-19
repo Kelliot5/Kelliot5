@@ -1,35 +1,36 @@
 # Hey there! 👋 
 
-I'm a passionate developer with a strong focus on building secure, scalable, and efficient solutions. I love turning ideas into code and solving real-world problems with technology. Welcome to my GitHub!
+I'm a passionate **Cybersecurity Enthusiast** and **Web3/Web2 Developer** focused on building secure, scalable solutions and mastering SOC operations. I love diving into threat detection, incident response, and secure coding to solve real-world problems.
 
 ## 💻 What I Do
-- **Full-Stack Development**: Crafting web applications with modern JavaScript/TypeScript, CSS/SCSS, and robust backends.
-- **Web Application Security**: Securing applications with best practices and proactive vulnerability mitigation.
-- **Blockchain**: Writing smart contracts in Solidity for decentralized applications (dApps).
-- **APIs**: Designing and integrating RESTful and third-party APIs for seamless functionality.
-- **Problem Solving**: Writing clean, maintainable code in Python and JavaScript to tackle complex challenges.
+- **Cybersecurity**: Training in **SOC Analyst (SAL1)** and **Pentester Learning Paths** on TryHackMe, specializing in log analysis, incident response, and penetration testing.
+- **Web Application Security**: Securing apps with OWASP Top 10 best practices and proactive vulnerability mitigation.
+- **Full-Stack Development**: Building web apps with JavaScript/TypeScript, React, Node.js, and robust backends.
+- **Web3 Development**: Crafting DApps and smart contracts in Solidity for decentralized ecosystems like Sonic and Fantom mainnets.
 
 ## 🛠️ Tech Stack
+- **Cybersecurity**: Splunk, Elastic Stack (ELK), Wireshark, Security Onion, TheHive, VirusTotal, Autopsy
 - **Languages**: Python, JavaScript, TypeScript, Solidity
-- **Frontend**: CSS, SCSS, React (preferred framework)
+- **Frontend**: React, CSS, SCSS
 - **Backend**: Node.js, Express, Flask, Django
-- **Security**: OWASP Top 10, secure coding practices
+- **Web3**: Ethereum, Sonic, Fantom, Hardhat, Truffle, MetaMask
 - **Tools**: Git, Docker, Webpack, npm/yarn
-- **Blockchain**: Ethereum, Hardhat, Truffle 
 
-## 🌟 Highlights
-- **[Fantomon]**: [NFT Collection on Fantom Maintnet]
-- **[Runescribe]**: [Diablo 2 Style IDLE NFT PVP Terminal Game]
+## 🌟 Highlighted Projects
+- **[Fantomon]**: NFT collection on Fantom Mainnet with secure smart contracts.
+- **[Runescribe]**: Diablo 2-style idle NFT PvP game on Sonic Testnet, featuring $S/$RG tokens.
+- **[DeFi Horse Betting DApp]**: Decentralized finance app with token staking and horse betting mechanics on Sonic Mainnet, integrating secure wallet authentication.
+- **[Gundam Pool Staking DApp]**: Gundam-themed DApp with dynamic pool staking, live tweaks via undermining, boosts, levels, research, and fortification on Sonic Mainnet.
 
 ## 🔒 Security Focus
-I’m deeply interested in web application security—ensuring applications are robust against threats like XSS, CSRF, and SQL injection. I follow secure coding principles and enjoy digging into the latest security research.
+Deeply engaged in **SOC operations** (TryHackMe SAL1) and **penetration testing** (TryHackMe Pentester Path), mastering SIEMs, threat hunting, and forensic analysis. I also audit smart contracts and secure DApps against exploits like reentrancy and phishing.
 
 ## ⚡ Fun Facts
-- I’m always experimenting with new APIs to see what I can build.
-- Coffee and code are my fuel—preferably together!
-- I believe good code is like a good joke: clean, clever, and impactful.
+- I thrive on coffee-fueled coding sessions and threat hunting labs.
+- Always experimenting with APIs and Web3 protocols to build innovative solutions.
+- Good code and good security are like a perfect Gundam build: precise and impactful.
 
-Feel free to explore my repositories, star what you like, or reach out for a collaboration. Let’s build something awesome together! 🚀
+Explore my repos, star what you like, or reach out to collaborate on cybersecurity or Web3 projects! 🚀
 
 ---
-⭐️ *If you find my work helpful, give it a star! Contributions and feedback are always welcome.*
+⭐️ *Contributions and feedback welcome! Let’s secure the web together.*
