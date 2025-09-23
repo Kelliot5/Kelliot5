@@ -21,17 +21,17 @@ I'm a driven **Cybersecurity Enthusiast** pursuing **SOC Analyst** and **Penetra
 - **Runescribe**: Diablo 2-style idle NFT PvP game on Sonic Testnet with $S/$RG tokens.
 - **DeFi Horse Betting DApp**: Decentralized finance app with token staking and horse betting on Sonic Mainnet.
 - **Gundam Pool Staking DApp**: Gundam-themed DApp with dynamic pool staking and live tweaks (undermining, boosts, levels, research, fortification) on Sonic Mainnet.
-- ** rect-NIDS ** PCAP Intrustion Analyzer ( made this to read PCAP files in a fast pace environment for modules on Tryhackme.)
+- **Rect-NIDS** PCAP File Reader - Malware/Intrusion Analyzer ( made this to read PCAP files in a fast pace environment for modules on Tryhackme.)
 
 ## 🔒 Security Focus
-Actively training in **SOC operations** (SAL1, SOC Level 1/2) and **penetration testing** (PT1, Web App Pentesting, Red Teaming) via TryHackMe, mastering SIEMs, threat hunting, and forensic analysis. I also audit self-taught Web3 projects, securing smart contracts against reentrancy and phishing exploits using tools like Slither and Mythril.
+Actively training in **SOC operations** (SAL1, SOC Level 1/2) and **penetration testing** (PT1, Web App Pentesting, Red Teaming) via TryHackMe, mastering SIEMs, threat hunting, and forensic analysis. I also audit self-developed Web3 projects, securing smart contracts against reentrancy and phishing exploits using tools like Slither and Mythril.
 
 ## ⚡ Fun Facts
-- Fueled by coffee and late-night TryHackMe labs.
-- Self-taught Web3 dev, turning Gundam-inspired ideas into decentralized reality.
+- Fueled by coffee and late-nights.
+- Self-taught Web3 dev
 - Believe great security is like clean code: precise, impactful, and elegant.
 
 Check out my repos, star what you like, or ping me to collaborate on cybersecurity or Web3 projects! 🚀
 
 ---
-⭐️ *Contributions and feedback always welcome! Let’s secure the digital frontier.*
+⭐️ *Contributions and feedback always welcome!.*
